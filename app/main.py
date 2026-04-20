@@ -34,8 +34,8 @@ def root():
         "version": "1.0.0",
         "status": "ok",
         "docs": "/docs",
-        "redoc": "/redoc",
         "health": "/health",
+        "developed by": "tawona rwatida",
     }
 
 
