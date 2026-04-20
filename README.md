@@ -41,7 +41,6 @@ docker-compose up --build
 
 - API: [http://localhost:8000](http://localhost:8000)
 - Swagger UI: [http://localhost:8000/docs](http://localhost:8000/docs)
-- ReDoc: [http://localhost:8000/redoc](http://localhost:8000/redoc)
 
 ## Authentication Flow
 
