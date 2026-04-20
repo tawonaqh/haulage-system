@@ -5,7 +5,6 @@ Base URL: `http://localhost:8000/api/v1`
 Interactive documentation is also available at:
 
 - `http://localhost:8000/docs`
-- `http://localhost:8000/redoc`
 
 ## Authentication
 
